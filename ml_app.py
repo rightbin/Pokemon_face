@@ -14,7 +14,6 @@ from tensorflow.keras.callbacks import CSVLogger
 import pickle 
 import joblib
 from sklearn.ensemble import RandomForestClassifier
-import cv2
 from keras.preprocessing import image
 
 
